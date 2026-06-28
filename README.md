@@ -6,3 +6,4 @@ land-test-2
 land-test-3
 
 wt-test-1
+wt-test-2
